@@ -20,10 +20,10 @@
     "semver": "^6.0.0"
   },
   "devDependencies": {
-    "jest": "^23.5.0",
-    "semantic-release": "^15.0.3",
+    "jest": "^30.0.0",
+    "semantic-release": "^22.0.0",
     "sinon": "^7.2.3",
-    "standard": "^11.0.1"
+    "standard": "^17.0.0"
   },
   "engines": {
     "node": ">=4"
